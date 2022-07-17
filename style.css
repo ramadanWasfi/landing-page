@@ -115,3 +115,23 @@ a {
     color: #361500;
     font-size: 18px;
 }
+
+.quote {
+    padding: 72px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #603601;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #CC9544;
+}
+
+.quote-author-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #CC9544;
+    text-align: right;
+}
