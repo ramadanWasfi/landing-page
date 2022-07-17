@@ -135,3 +135,48 @@ a {
     color: #CC9544;
     text-align: right;
 }
+
+.cta-container {
+    display: flex;
+    justify-content: center;
+    background-color: #CC9544;
+    padding: 78px 0;
+}
+
+.cta {
+    display: flex;
+    gap: 48px;
+    background-color: #361500;
+    padding: 48px 96px;
+    border-radius: 10px;
+}
+
+.cta-text {
+    color:#CC9544;
+    font-size: 18px;
+}
+
+#cta-text {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.cta-btn {
+    background-color: #361500;
+    color: #CC9544;
+    border-radius: 8px;
+    align-self: center;
+    border:#CC9544 4px solid;
+    text-align: center;
+    font-size: 18px;
+    padding: 8px;
+}
+
+.footer {
+    background-color: #1C0A00;
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#CC9544
+}
